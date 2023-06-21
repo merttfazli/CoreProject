@@ -1,0 +1,16 @@
+C:\CoreProject\CoreProject\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\CoreProject\CoreProject\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+C:\CoreProject\CoreProject\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+C:\CoreProject\CoreProject\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\CoreProject\CoreProject\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\CoreProject\CoreProject\DataAccessLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\CoreProject\CoreProject\DataAccessLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\CoreProject\CoreProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+C:\CoreProject\CoreProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CoreProject\CoreProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\CoreProject\CoreProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\CoreProject\CoreProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\CoreProject\CoreProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+C:\CoreProject\CoreProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\CoreProject\CoreProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\CoreProject\CoreProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache
